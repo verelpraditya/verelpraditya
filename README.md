@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verelpraditya
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 contact me by email verel.yuliantopraditya@gmail.com
 <!---
